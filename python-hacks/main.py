@@ -1,0 +1,7 @@
+print("Hacking your computer...")
+print("Loading modules...")
+print("Done")
+print("Loading database...")
+print("Done")
+print("Hacking...")
+print("This computer is now hacked")
